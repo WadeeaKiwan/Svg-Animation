@@ -1,6 +1,6 @@
 # Svg-Animation
 
-SVG created using `Figma` to include `id` attributes and animated using CSS.
+SVG created using `Figma` to include `id` attributes and animated using `CSS`.
 
 ![SVG Animation Demo](./assets/svg-anim-demo.gif)
 
